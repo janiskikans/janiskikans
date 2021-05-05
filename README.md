@@ -20,5 +20,5 @@ I am **Janis**, and I am a Full Stack Web Developer from Riga, Latvia 🇱🇻 (
 
 ### 💼 My projects
 
-- [Launchpad](https://launchpadapp.netlify.app) 🚀 - A handy app for rocket launch and space enthusiasts - an easy way to lookup upcoming launches and more at a glance
+- [Launchpad](https://launchpadapp.space) 🚀 - A handy app for rocket launch and space enthusiasts - an easy way to lookup upcoming launches and more at a glance
 - [SATS](https://github.com/janiskikans/SATS) - Student Attendance Tracking System. Built with Python and OpenCV. Made as a part of a Bachelor's thesis
