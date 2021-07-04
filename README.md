@@ -3,7 +3,7 @@
 I am **Janis**, and I am a Full Stack Web Developer from Riga, Latvia 🇱🇻 (yes, that small country between Estonia and Lithuania in Northern Europe).
 
 - 🔭 I’m currently working on [Launchpad](https://launchpadapp.space) 🚀
-- 🌱 I’m currently learning **GraphQL & NuxtJS**
+- 🌱 I’m currently learning **Go**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/janis-andrejs-kikans/)
 
 ### 🚧 I work with
