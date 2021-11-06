@@ -8,10 +8,11 @@ I am **Janis**, and I am a Full Stack Web Developer from Riga, Latvia 🇱🇻 (
 
 ### 🚧 I work with
 
+![PHP](https://img.shields.io/badge/-PHP-8892BE?logo=PHP&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=white&style=flat-square)
 ![Javascript](https://img.shields.io/badge/-JavaScript-626262?logo=javascript&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/-Vue-3FB883?logo=Vue.js&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=Node.js&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-8892BE?logo=PHP&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3C79AA?logo=Python&logoColor=white&style=flat-square)
 ![SASS](https://img.shields.io/badge/-Sass-CE649A?logo=sass&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-01758F?logo=MySQL&logoColor=white&style=flat-square)
